@@ -1,0 +1,25 @@
+.section_1{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding-left: 40px;
+    padding-top: 30px;
+    padding-bottom: 80px;
+}
+.div_img{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.link_div a{
+    text-decoration: none;
+    color: black;
+    padding-top: 10px;
+
+}
+.link_1{
+    background-color: rgb(69, 66, 66);
+    color: white;
+}
+.section_2{
+    display: flex;
+}
